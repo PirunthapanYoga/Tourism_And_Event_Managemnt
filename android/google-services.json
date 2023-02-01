@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253601407924",
+    "firebase_url": "https://smarttourism-20178273.firebaseio.com",
+    "project_id": "smarttourism-20178273",
+    "storage_bucket": "smarttourism-20178273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253601407924:android:3fa95915274d836c0e48e1",
+        "android_client_info": {
+          "package_name": "com.u20178273.smarttourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253601407924-1di67d461alhkqg5u11fiv6md90856ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u20178273.smarttourism",
+            "certificate_hash": "0ec59995caac93922b62fd2b2b10b6fdd1a00c40"
+          }
+        },
+        {
+          "client_id": "253601407924-9mpcg3vn8noaf3c5tu6fe6tr89oi91js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1N19NR675Uqk5wcM0TFslBx9xOm7i6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253601407924-9mpcg3vn8noaf3c5tu6fe6tr89oi91js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
